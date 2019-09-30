@@ -1,0 +1,16 @@
+C:\Users\furka\Desktop\Router\Router\SubDomainService\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\furka\Desktop\Router\Router\SubDomainService\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\furka\Desktop\Router\Router\SubDomainService\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\furka\Desktop\Router\Router\SubDomainService\bin\Debug\netcoreapp2.2\SubDomainService.deps.json
+C:\Users\furka\Desktop\Router\Router\SubDomainService\bin\Debug\netcoreapp2.2\SubDomainService.runtimeconfig.json
+C:\Users\furka\Desktop\Router\Router\SubDomainService\bin\Debug\netcoreapp2.2\SubDomainService.runtimeconfig.dev.json
+C:\Users\furka\Desktop\Router\Router\SubDomainService\bin\Debug\netcoreapp2.2\SubDomainService.dll
+C:\Users\furka\Desktop\Router\Router\SubDomainService\obj\Debug\netcoreapp2.2\SubDomainService.csprojAssemblyReference.cache
+C:\Users\furka\Desktop\Router\Router\SubDomainService\obj\Debug\netcoreapp2.2\SubDomainService.RazorAssemblyInfo.cache
+C:\Users\furka\Desktop\Router\Router\SubDomainService\obj\Debug\netcoreapp2.2\SubDomainService.RazorAssemblyInfo.cs
+C:\Users\furka\Desktop\Router\Router\SubDomainService\obj\Debug\netcoreapp2.2\SubDomainService.AssemblyInfoInputs.cache
+C:\Users\furka\Desktop\Router\Router\SubDomainService\obj\Debug\netcoreapp2.2\SubDomainService.AssemblyInfo.cs
+C:\Users\furka\Desktop\Router\Router\SubDomainService\obj\Debug\netcoreapp2.2\SubDomainService.RazorTargetAssemblyInfo.cache
+C:\Users\furka\Desktop\Router\Router\SubDomainService\bin\Debug\netcoreapp2.2\SubDomainService.pdb
+C:\Users\furka\Desktop\Router\Router\SubDomainService\obj\Debug\netcoreapp2.2\SubDomainService.dll
+C:\Users\furka\Desktop\Router\Router\SubDomainService\obj\Debug\netcoreapp2.2\SubDomainService.pdb
